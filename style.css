@@ -1,0 +1,11 @@
+*{
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+body{
+    background-color: lightblue;
+}
+button a{
+    text-decoration: none;
+    color: black;
+}
